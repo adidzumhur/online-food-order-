@@ -1,0 +1,12 @@
+{
+    "name": "ibu/onlinefoodorder",
+    "description": "Online food order system for intro2web  course",
+    "license": "Apache2",
+    "authors": [
+        {
+            "name": "adidzumhur",
+            "email": "adidzumhur2000@gmail.com"
+        }
+    ],
+    "require": {}
+}
